@@ -1,6 +1,6 @@
 # maitri
 
-**maitri** (*MY-tree*) is a beautiful, opinionated Linux desktop made by [Kindness](https://kindness.ai).
+**maitri** (*MY-tree*) is a beautiful, opinionated Linux desktop made by [Kindness](https://k7.dev).
 It turns a fresh Arch Linux install into a fully configured Hyprland desktop with sane defaults and a
 curated set of apps.
 
