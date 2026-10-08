@@ -16,6 +16,7 @@ project for the foundation.
 - [maitri-vicinae](https://github.com/maitrios/maitri-vicinae): the Vicinae extension behind the launcher, menu and pickers
 - [maitri-fish](https://github.com/maitrios/maitri-fish): the fish config behind the login shell
 - [maitri-trackpoint](https://github.com/maitrios/maitri-trackpoint): an optional ThinkPad TrackPoint bar widget
+- [maitri-scribe](https://github.com/maitrios/maitri-scribe): fix, rewrite or transform highlighted text from Vicinae with the Claude CLI, Anthropic, OpenAI or a local model
 
 ## Get it
 
