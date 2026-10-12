@@ -17,6 +17,7 @@ project for the foundation.
 - [maitri-mail](https://github.com/maitrios/maitri-mail): Mail, a fork of [omamail](https://github.com/huacnlee/omamail) by Jason Lee
 - [maitri-fish](https://github.com/maitrios/maitri-fish): the fish config behind the login shell
 - [maitri-trackpoint](https://github.com/maitrios/maitri-trackpoint): an optional ThinkPad TrackPoint bar widget
+- [maitri-cellular](https://github.com/maitrios/maitri-cellular): an optional cellular bar widget for LTE and 5G modems, SIM and eSIM, a fork of [omarchy-cellular](https://github.com/relctx/omarchy-cellular) by relctx
 - [maitri-scribe](https://github.com/maitrios/maitri-scribe): fix, rewrite or transform highlighted text from Vicinae with the Claude CLI, Anthropic, OpenAI or a local model
 
 ## Get it
